@@ -1,3 +1,6 @@
+> This repository contains a regulation-first model of human experience, emotion, and language.
+
+
 # From Signal to Speech
 
 # A Regulation-First Model of Human Experience, Emotion, and Language
